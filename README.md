@@ -1,8 +1,8 @@
-## 🧍Emre Coban
+## Emre Coban
 
 My name's Emre. I'm currently MSc. student in the Department of Computer Education and Instructional Technology at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
 
-## 🎓Education
+## Education
 
 #### Amasya University (2018 to Present)
 
@@ -19,16 +19,14 @@ My name's Emre. I'm currently MSc. student in the Department of Computer Educati
 - Computer Programming
 - Associate of Science
 
-## 🔧Skills
+## Skills
 - Problem Solving
 - Working as a part of a team
 - Teaching
 
-## 🌴Hobbies
+## Hobbies
 
 I live in Samsun, Turkey 🌿 and enjoy spending my free time reading scientific book & article and novel 📚, hanging out with friends as an asocial 🥂, learning new things about software development ✍️, watching TV series in English as my second language 📺, listening to loud music 🎶, and surfing on the internet 🌐.
-
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecoban&layout=compact&langs_count=10&hide=smarty,javascript,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
 ### Visit [my blog](https://emrecoban.github.io) for more.
 
