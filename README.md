@@ -6,7 +6,7 @@ My name's Emre. I'm currently MSc. student in the Department of Computer Educati
 
 ## Education
 
-#### Amasya University (2018 to Present)
+#### Amasya University (2018 to 2021)
 
 - Computer Education and Instructional Technology
 - Master of Science
