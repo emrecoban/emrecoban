@@ -2,7 +2,7 @@
 
 ![emrecobanBanner](banner.png)
 
-My name's Emre. I'm currently MSc. student in the Department of Computer Education and Instructional Technology at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
+My name's Emre. I have recently completed a master's in the Department of CEIT at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
 
 ## Education
 
