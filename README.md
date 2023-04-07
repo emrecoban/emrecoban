@@ -4,7 +4,10 @@
 
 My name's Emre. I have recently completed a master's in the Department of CEIT at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
 
+<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6468955?theme=dark" alt="emrecoban's SO profile" align="right" />
+
 #### 🔭 I’m currently working on JavaScript/React.
+<br />
 
 | Project | Description | Technology |
 | ------- | ----------- | ---------- |
@@ -56,10 +59,7 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 I live in Samsun, Turkey 🌿 and enjoy spending my free time reading scientific book & article and novel 📚, hanging out with friends as an asocial 🥂, learning new things about software development ✍️, watching TV series in English as my second language 📺, listening to loud music 🎶, and surfing on the internet 🌐.
 </details>
 
-Visit [my blog](https://emrecoban.github.io) for more.
-
-
-
+[Blog](https://emrecoban.github.io) · [CV](https://github.com/emrecoban/emrecoban.github.io/blob/main/Emre_COBAN_CV-ENG.pdf)
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
