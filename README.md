@@ -4,7 +4,8 @@
 
 My name's Emre. I have recently completed a master's in the Department of CEIT at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
 
-## Education
+<details>
+  <summary>Education</summary>
 
 #### Amasya University (2018 to 2021)
 
@@ -20,17 +21,23 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 
 - Computer Programming
 - Associate of Science
+</details>
 
-## Skills
+<details>
+  <summary>Skills</summary>
+  
 - Problem Solving
 - Working as a part of a team
 - Teaching
+</details>
 
-## Hobbies
+<details>
+  <summary>Hobbies</summary>
 
 I live in Samsun, Turkey 🌿 and enjoy spending my free time reading scientific book & article and novel 📚, hanging out with friends as an asocial 🥂, learning new things about software development ✍️, watching TV series in English as my second language 📺, listening to loud music 🎶, and surfing on the internet 🌐.
+</details>
 
-### Visit [my blog](https://emrecoban.github.io) for more.
+Visit [my blog](https://emrecoban.github.io) for more.
 
 
 
