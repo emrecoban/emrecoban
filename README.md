@@ -9,7 +9,7 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 #### 🔭 I’m currently working on JavaScript/React.
 <br />
 
-| Project | Description | Technology |
+| Project | Description | Built with |
 | ------- | ----------- | ---------- |
 |[Caption Meow](https://github.com/emrecoban/caption-meow)|An open-source social network that provides a daily creative challenge for cat lovers to come up with witty captions for cat photos while competing with other users.|React, Firebase|
 |[Twitter Note](https://github.com/emrecoban/twitterNote)|A Chrome Extension that helps you to take notes about the people who you blocked, or muted.|JavaScript, chrome.storage API|
