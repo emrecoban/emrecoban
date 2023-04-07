@@ -6,20 +6,20 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 
 | Project | Description | Technology |
 | ------- | ----------- | ---------- |
-|[Caption Meow](/caption-meow)|An open-source social network that provides a daily creative challenge for cat lovers to come up with witty captions for cat photos while competing with other users.|React, Firebase|
-|[Twitter Note](/twitterNote)|A Chrome Extension that helps you to take notes about the people who you blocked, or muted.|JavaScript, chrome.storage API|
-|[Türkçe Sözlük](/turkish-dictionary)|A digital platform that displays the meanings, properties, and usage of words in example sentences. The data source for the words included in the platform is sozluk.gov.tr.|React, JSON|
-|[eksiShot](/eksiShot)|A free tool that converts entries on ekşi sözlük into images and takes screenshots of entry pages.|React, TailwindCSS, cheerio|
-|[e-Devlet Favoriler](/e-devlet-fav)|A Chrome Extension that aims to save time for users of the Turkey e-Government Portal (turkiye.gov.tr) by allowing them to directly access their frequently used services from a list of favorite transactions, instead of having to search for them using the search box.|React, CRXJS, cheerio|
-|[Realtime Location Tracker](/realtimeLocationTracker)|This is a real-time location tracking application developed using JS, Realtime Database, and Geolocation API.|JavaScript, Firebase, Google Maps API|
-|[Dikey Geçiş Asistanı](/dikey-gecis-asistani)|An android app (native) to assist students preparing for the Dikey Gecis Sinavi (An exam in Turkey).|Java, Firebase|
-|[Values Education](/values-education)|The project is a Content Management System for Values Education. As a teacher, you can add books and games for primary school students in the project. The students gain score through reading book, and then play games if the student's score is enough for the game.|Classic ASP, MS Access|
-|[My Voice](/my-voice)|An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language.|Java, TextToSpeech|
-|[3Words](/3Words)|A social network project, programmed in both Classic ASP and PHP. The first release was published in 2012. The users can write 3 words about themself on their profiles each other in 3Words.|Classic ASP, MS Access, PHP, MySQL|
-|[Computational Thinking Score](/ComputationalThinking)|A web application that measures computational thinking skills, which are among the 21st century skills. This web application was also developed as a result of an academic investigation.|PHP, Bootstrap, MySQL|
-|[Kuşadası Market](/kusadasi-market)|An e-commerce cart system that fetches products from an API and lists them on the page. Users can add products to their cart and also remove them from the cart.|JavaScript, Bootstrap|
-|[Mentalist Theme](/Mentalist-Theme-Bootstrap)|Bootstrap theme for psychologists.|Bootstrap|
-|[Lite Company Theme](/Lite-Company-Bootstrap-Theme)|Bootstrap theme for corporations.|Bootstrap|
+|[Caption Meow](https://github.com/emrecoban/caption-meow)|An open-source social network that provides a daily creative challenge for cat lovers to come up with witty captions for cat photos while competing with other users.|React, Firebase|
+|[Twitter Note](https://github.com/emrecoban/twitterNote)|A Chrome Extension that helps you to take notes about the people who you blocked, or muted.|JavaScript, chrome.storage API|
+|[Türkçe Sözlük](https://github.com/emrecoban/turkish-dictionary)|A digital platform that displays the meanings, properties, and usage of words in example sentences. The data source for the words included in the platform is sozluk.gov.tr.|React, JSON|
+|[eksiShot](https://github.com/emrecoban/eksiShot)|A free tool that converts entries on ekşi sözlük into images and takes screenshots of entry pages.|React, TailwindCSS, cheerio|
+|[e-Devlet Favoriler](https://github.com/emrecoban/e-devlet-fav)|A Chrome Extension that aims to save time for users of the Turkey e-Government Portal (turkiye.gov.tr) by allowing them to directly access their frequently used services from a list of favorite transactions, instead of having to search for them using the search box.|React, CRXJS, cheerio|
+|[Realtime Location Tracker](https://github.com/emrecoban/realtimeLocationTracker)|This is a real-time location tracking application developed using JS, Realtime Database, and Geolocation API.|JavaScript, Firebase, Google Maps API|
+|[Dikey Geçiş Asistanı](https://github.com/emrecoban/dikey-gecis-asistani)|An android app (native) to assist students preparing for the Dikey Gecis Sinavi (An exam in Turkey).|Java, Firebase|
+|[Values Education](https://github.com/emrecoban/values-education)|The project is a Content Management System for Values Education. As a teacher, you can add books and games for primary school students in the project. The students gain score through reading book, and then play games if the student's score is enough for the game.|Classic ASP, MS Access|
+|[My Voice](https://github.com/emrecoban/my-voice)|An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language.|Java, TextToSpeech|
+|[3Words](https://github.com/emrecoban/3Words)|A social network project, programmed in both Classic ASP and PHP. The first release was published in 2012. The users can write 3 words about themself on their profiles each other in 3Words.|Classic ASP, MS Access, PHP, MySQL|
+|[Computational Thinking Score](https://github.com/emrecoban/ComputationalThinking)|A web application that measures computational thinking skills, which are among the 21st century skills. This web application was also developed as a result of an academic investigation.|PHP, Bootstrap, MySQL|
+|[Kuşadası Market](https://github.com/emrecoban/kusadasi-market)|An e-commerce cart system that fetches products from an API and lists them on the page. Users can add products to their cart and also remove them from the cart.|JavaScript, Bootstrap|
+|[Mentalist Theme](https://github.com/emrecoban/Mentalist-Theme-Bootstrap)|Bootstrap theme for psychologists.|Bootstrap|
+|[Lite Company Theme](https://github.com/emrecoban/Lite-Company-Bootstrap-Theme)|Bootstrap theme for corporations.|Bootstrap|
 
 <details>
   <summary>Education</summary>
