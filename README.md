@@ -32,7 +32,7 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 #### Amasya University (2018 to 2021)
 
 - **Computer Education and Instructional Technology** (_Master of Science_)
-- Graduation project: [Computational Thinking Score](https://github.com/emrecoban/ComputationalThinking) (_PHP_)
+- Graduation project: [Computational Thinking Score](https://github.com/emrecoban/ComputationalThinking) (_PHP & jQuery_)
 
 #### Ondokuz Mayıs University (2016 to 2018)
 
