@@ -60,7 +60,7 @@ My name's Emre. I have recently completed a master's in the Department of CEIT a
 I live in Samsun, Turkey 🌿 and enjoy spending my free time reading scientific book & article and novel 📚, hanging out with friends as an asocial 🥂, learning new things about software development ✍️, watching TV series in English as my second language 📺, listening to loud music 🎶, and surfing on the internet 🌐.
 </details>
 
-[Blog](https://emrecoban.github.io) · [CV](https://github.com/emrecoban/emrecoban.github.io/blob/main/Emre_COBAN_CV-ENG.pdf)
+[Blog](https://emrecoban.github.io) · [CV](https://github.com/emrecoban/emrecoban.github.io/blob/main/Emre_COBAN_CV-ENG_v2.pdf)
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
