@@ -6,7 +6,7 @@ My name's Emre. I have completed a master's in the Department of CEIT at Amasya 
 
 <a href="https://stackoverflow.com/users/6468955/emre" target="_blank"><img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6468955?theme=dark" alt="emrecoban's SO profile" align="right" /></a>
 
-#### 🔭 I’m currently working on JavaScript/React/Next.js.
+#### 🔭 I’m currently working on Next.js with React.
 <br />
 
 | Project | Description | Built with |
