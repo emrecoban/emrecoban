@@ -2,8 +2,6 @@
 
 ![emrecobanBanner](banner_v2.png)
 
-My name's Emre. I have completed a master's in the Department of CEIT at Amasya University 🇹🇷. My master thesis is focused on computational thinking 🔭. During the thesis term I try to develop the web app, which is a reliable and valid to measure high school students' computational thinking skills 🔬. Also I make scientific studies on computer science education 🔍.
-
 <a href="https://stackoverflow.com/users/6468955/emre" target="_blank"><img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/6468955?theme=dark" alt="emrecoban's SO profile" align="right" /></a>
 
 #### 🔭 I’m currently working on Next.js with React.
